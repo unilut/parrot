@@ -22,6 +22,7 @@ project/plugins/project/
 
 #JetBrains
 # User-specific stuff:
+*.idea
 .idea/workspace.xml
 .idea/tasks.xml
 *.iml
