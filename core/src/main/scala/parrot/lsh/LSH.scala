@@ -1,6 +1,9 @@
 package parrot.lsh
 
-object KNN {
+object LSH {
 
+  def main(args: Array[String]): Unit = {
+    println("hello,parrot!")
+  }
 	
 }
