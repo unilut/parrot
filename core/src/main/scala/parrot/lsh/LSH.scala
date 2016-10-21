@@ -1,6 +1,9 @@
 package parrot.lsh
 
-object KNN {
-//git-hub test njq
+object LSH {
+
+  def main(args: Array[String]): Unit = {
+    println("hello,parrot!")
+  }
 	
 }
